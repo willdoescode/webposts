@@ -3,5 +3,10 @@
     "title": "Test Post",
     "body": "this is a test post",
     "id": 0
+  },
+  {
+    "title": "Second Post",
+    "body": "I tried to get md posts working but I could do it for the life of me as im using github to store my posts and im not doing any server side rendering",
+    "id": 1
   }
 ]
