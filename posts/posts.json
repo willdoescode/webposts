@@ -8,5 +8,10 @@
     "title": "Second Post",
     "body": "is this post any better than the first post, only time will tell",
     "id": 1
+  },
+  {
+    "title": "this is yet another test post",
+    "body": "will it work or will it not",
+    "id": 2
   }
 ]
