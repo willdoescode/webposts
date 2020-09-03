@@ -2,6 +2,11 @@
   {
     "title": "Test Post",
     "body": "this is a test post",
-    "id": "1"
+    "id": 1
+  },
+  {
+    "title": "Second Post",
+    "body": "is this post any better than the first post, only time will tell",
+    "id": 2
   }
 ]
