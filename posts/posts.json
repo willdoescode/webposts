@@ -13,5 +13,10 @@
     "title": "this is yet another test post",
     "body": "will it work or will it not",
     "id": 2
+  },
+  {
+    "title": "Iterm2 themes",
+    "body": "spaceship theme is really nice for iterm I would strongly recommend it",
+    "id": 3
   }
 ]
