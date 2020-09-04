@@ -8,5 +8,10 @@
     "title": "Second Post",
     "body": "I tried to get md posts working but I could do it for the life of me as im using github to store my posts and im not doing any server side rendering",
     "id": 1
+  },
+  {
+    "title": "Margins",
+    "body": "Changed the styling on each component to keep margins similar",
+    "id": 2
   }
 ]
